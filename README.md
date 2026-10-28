@@ -110,20 +110,18 @@ Copy the repository URL from your browser after confirming that your source file
 ## Screenshot on Windows
 
 Open the deployed website in Chrome, then press `Win + Shift + S`, select the website area, and save the screenshot. Submit the screenshot along with both URLs and your full name/RTB email as required by your teacher.
-<div align="right">
-  <img src="images/felex.jpg" width="200" alt="Ifoto yanjye">
-</div>
 
 <table>
   <tr>
-    <td valign="top">
+    <td width="70%" valign="top">
       <h2>Hello, I'm Felex!</h2>
       <p>Software Development Student</p>
       <p>Welcome to my GitHub repository.</p>
     </td>
-    <td>
-      <img src="felex.jpg" width="180" alt="My photo">
+    <td width="30%" align="right" valign="top">
+      <img src="./felex.jpg.jpg" width="180" alt="Felex">
     </td>
   </tr>
 </table>
+
 

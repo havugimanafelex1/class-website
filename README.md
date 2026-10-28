@@ -110,3 +110,6 @@ Copy the repository URL from your browser after confirming that your source file
 ## Screenshot on Windows
 
 Open the deployed website in Chrome, then press `Win + Shift + S`, select the website area, and save the screenshot. Submit the screenshot along with both URLs and your full name/RTB email as required by your teacher.
+<div align="right">
+  <img src="images/ifoto-yawe.jpg" width="200" alt="Ifoto yanjye">
+</div>

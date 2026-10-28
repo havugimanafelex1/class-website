@@ -113,3 +113,17 @@ Open the deployed website in Chrome, then press `Win + Shift + S`, select the we
 <div align="right">
   <img src="images/ifoto-yawe.jpg" width="200" alt="Ifoto yanjye">
 </div>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h2>Hello, I'm Felex!</h2>
+      <p>Software Development Student</p>
+      <p>Welcome to my GitHub repository.</p>
+    </td>
+    <td>
+      <img src="felex.jpg" width="180" alt="My photo">
+    </td>
+  </tr>
+</table>
+
